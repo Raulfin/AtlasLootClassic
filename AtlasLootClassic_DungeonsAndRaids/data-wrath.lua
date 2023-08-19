@@ -2342,7 +2342,7 @@ data["TheNexus"] = {
             EncounterJournalID = 833,
             Level = 72,
             -- DisplayIDs = {{0}},
-            AtlasMapBossID = 4,
+            AtlasMapBossID = 1,
             [HEROIC_DIFF] = {
                 { 1, 45624 }, -- Emblem of Conquest
                 { 3, 37728 }, -- Cloak of the Enemy
@@ -2375,7 +2375,7 @@ data["TheNexus"] = {
             EncounterJournalID = 618,
             Level = 72,
             -- DisplayIDs = {{0}},
-            AtlasMapBossID = 1,
+            AtlasMapBossID = 2,
             [NORMAL_DIFF] = {
                 { 1, 35605 }, -- Belt of Draconic Runes
                 { 2, 35604 }, -- Insulating Bindings
@@ -2420,7 +2420,7 @@ data["TheNexus"] = {
             EncounterJournalID = 619,
             Level = 72,
             -- DisplayIDs = {{0}},
-            AtlasMapBossID = 2,
+            AtlasMapBossID = 3,
             [NORMAL_DIFF] = {
                 { 1, 35599 }, -- Gauntlets of Serpent Scales
                 { 2, 35600 }, -- Cleated Ice Boots
@@ -2461,7 +2461,7 @@ data["TheNexus"] = {
             EncounterJournalID = 620,
             Level = 72,
             -- DisplayIDs = {{0}},
-            AtlasMapBossID = 3,
+            AtlasMapBossID = 4,
             [NORMAL_DIFF] = {
                 { 1, 35602 }, -- Chiseled Stalagmite Pauldrons
                 { 2, 35603 }, -- Greaves of the Blue Flight
